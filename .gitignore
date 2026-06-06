@@ -1,0 +1,15 @@
+build/
+sdkconfig
+sdkconfig.old
+.idea/
+*.bin
+*.elf
+*.map
+
+__pycache__/
+*.pyc
+.env
+venv/
+
+.DS_Store
+Thumbs.db
